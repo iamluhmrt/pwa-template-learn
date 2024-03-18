@@ -1,0 +1,31 @@
+{
+    "theme_color": "#7e22cf",
+    "background_color": "#9b9b9b",
+    "display": "fullscreen",
+    "scope": "/pwa-template-learn/",
+    "start_url": "/pwa-template-learn/",
+    "name": "pwa-template-learn",
+    "short_name": "pwaTemplateLearn",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
